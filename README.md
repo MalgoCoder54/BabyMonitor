@@ -1,4 +1,4 @@
-# Streamlit Event Tracker
+# Newborn Event Tracker
 
 This project is a Streamlit application designed to track events and calculate the time elapsed since the last event of a specific type. The application uses a JSON file to store event data and provides a simple interface for loading, saving, and analyzing this data.
 
