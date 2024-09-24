@@ -50,7 +50,7 @@ def time_since_last_event(data, event_type):
 data = load_data()
 
 st.set_page_config(
-    page_title="Arthur Monitoring App",
+    page_title="Baby Tracking App",
     page_icon="👶",
     layout="wide"
 )
